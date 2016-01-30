@@ -28,3 +28,31 @@ body{
     display: block;
     padding-left: 30px;
 }
+/* Projects */
+.row {
+  margin: 20px;
+  text-align: center;
+}
+
+.row p {
+  text-align: justify;
+}
+
+.row h3 {
+  text-align: center;
+}
+
+.col-sm-4 {
+  padding: 10px;
+}
+.btn{
+  background-color: #eee;
+  color: #70c1b3;
+  font-size: 15px;
+}
+
+.custom a button:hoover {
+  background-color: #cbe7d4;
+  color: #247BA0;
+  font-weight: bold;
+}
