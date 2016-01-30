@@ -1,5 +1,6 @@
 /* Body */
-body{
+body {
+  background-color: lightblue;
   font-family: sans-serif;
   font-size: 15px;
 }
