@@ -13,3 +13,6 @@ Enter  into your browser's URL [click here]
 HTML
 CSS
 Bootstrap
+
+## Legal
+Copyright (c) 2016 Priya Vasudevan
